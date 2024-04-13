@@ -1,6 +1,7 @@
 The Rainbow and the unicorn.
 
 yellow
+orange
 red
 green
 blue
