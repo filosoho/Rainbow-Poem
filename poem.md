@@ -12,6 +12,6 @@ unicorn
 These are the colors of the rainbow and the unicorn.  
 Pony   
 
-French Bulldog  
+French Bulldog Photo
 
 ![French bulldog](https://raw.githubusercontent.com/filosoho/Rainbow-Poem/main/blue%20(2).jpg)
